@@ -8,7 +8,7 @@
 <p>- CSS</p>
 <br>
 <h3>Desktop</h3>
-<img src="./assets/wide-coverage-location-desktop.png" />
+<img src="./assets/wide-coverag-location-desktop.png" />
 <br>
 <h3>Mobile</h3>
-<img src="./assets/wide-coverage-locationg-mobile.png" />
+<img src="./assets/wide-coverag-location-mobile.png" />
